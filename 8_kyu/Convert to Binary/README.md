@@ -1,0 +1,13 @@
+# DESCRIPTION:
+
+## Task Overview
+
+Given a non-negative integer `b`, write a function which returns an integer `d` such that the _binary_ representation of `b` is the same as the _decimal_ representation of `d`.
+
+Examples:
+
+```
+n = 1 should return 1
+n = 5 should return 101
+n = 11 should return 1011
+```
